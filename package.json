@@ -19,5 +19,8 @@
   "homepage": "https://github.com/keithalpichi/tic-tac-toe#readme",
   "devDependencies": {
     "jest": "^19.0.2"
+  },
+  "dependencies": {
+    "prompt": "^1.0.0"
   }
 }
